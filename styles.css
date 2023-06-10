@@ -1,0 +1,36 @@
+h1{
+    color:blueviolet;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 10%;
+    text-align: center;
+    text-shadow: 10%;
+}
+#id{
+    color :brown;
+    font-size: medium;
+}
+#rania{
+    color :brown;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 5%;
+}
+h3{
+    font-weight: bolder;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.container{
+    padding: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.mytest{
+    border-style: double;
+    width: fit-content;
+}
+.myth{
+    border-style: double;
+    width: fit-content;
+}
